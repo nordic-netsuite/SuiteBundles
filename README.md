@@ -24,7 +24,7 @@ No warriany, support or future fuctionality are guarnteed for any of these bundl
 |Alterview VBR|236094|1.1.6|1.8:Introduced configuration of fields 1.9:accept null values 1.10:Number comparison 0.00 and -0.00 bug fix 1.11:NaN bug fix 1.12:amort sched bug fix 1.13: added functionality for AMORTIZATION_PERIODS 1.14: Subsidiary bug fixed 1.15 unlock 1.16 Subscription Remove|[Link](https://github.com/nordic-netsuite/SuiteBundle-VBR)|
 |AV Create Transaction|284441|1.2|This is the bundle to use. 1.2 Unlock|[Link](https://github.com/nordic-netsuite/SuiteBundle-AV-create-transaction)|
 |AVF - Automatic Customer Payments|20761|2.1.7|Automatic Customer Payments provides functionality for invoice matching and payment generation for the most popular formats in the Nordic countries. 2.16:added camt054 2.1.7 unlocked|To Be Added|
-|AVNS - OCR|92324|1.3|OCR number generator - Adds a OCR number to Purchase/Sale Transactions. Supported countries:SE, FI, DK. 1.2: OCR replaces old OCR if different 1.3 Unlock|To Be Added|
+|AVNS - OCR|92324|1.3|OCR number generator - Adds a OCR number to Purchase/Sale Transactions. Supported countries:SE, FI, DK. 1.2: OCR replaces old OCR if different 1.3 Unlock|[Link](https://github.com/nordic-netsuite/SuiteBundle-AVNS-OCR)|
 |AVNS CRUD|208389|1.0.3|A Restlet endpoint to Create, Read, Update or Delete any standard or custom record in Netsuite 1.0.2 Unlock 1.0.3 Subscription Remove|[Link](https://github.com/nordic-netsuite/AVNS-CRUD)|
 |AVNS Delete Records|29546|1.0.9|A powerful tool to mass delete netsuite standard or custom records retrieved from a saved search. 1.0.9 Unlock|To Be Added|
 |AVNS Ekonomiroll|214159|1.1|Uppdaterad balansräkning|To Be Added|
