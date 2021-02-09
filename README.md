@@ -25,7 +25,6 @@ No warriany, support or future fuctionality are guarnteed for any of these bundl
 |AVNS - OCR|92324|1.3|OCR number generator - Adds a OCR number to Purchase/Sale Transactions. Supported countries:SE, FI, DK. 1.2: OCR replaces old OCR if different 1.3 Unlock|[Link](https://github.com/nordic-netsuite/SuiteBundle-AVNS-OCR)|
 |AVNS CRUD|208389|1.0.3|A Restlet endpoint to Create, Read, Update or Delete any standard or custom record in Netsuite 1.0.2 Unlock 1.0.3 Subscription Remove|[Link](https://github.com/nordic-netsuite/AVNS-CRUD)|
 |AVNS Delete Records|29546|1.0.9|A powerful tool to mass delete netsuite standard or custom records retrieved from a saved search. 1.0.9 Unlock|[Link](https://github.com/nordic-netsuite/SuiteBundle-AVNS-Delete-Records)|
-|AVNS Ekonomiroll|214159|1.1|Uppdaterad balansräkning||
 |AVNS INR Invoice Reminder|164076|0.9.3|BugFix: "Error message Your have already submitted this form" where displayed even if the form was not submitted before 0.9.2 unlock 0.9.3 Subscription Remove|[Link](https://github.com/nordic-netsuite/AVNS-INR-Invoice-Reminder)|
 |AVNS Save Restlet Calls|107328|1.0.0|This bundle makes it possible to save every restlet call into a record. A restlet call can thereafter be "run" again from GUI if an error occured. 1.0.0 Unlock|To Be Added|
 |Get Netsuite Record|104258|2.5|2.3.2 log info added 2.4 Grouped searches now allowed 2.5 Unlock|[Link](https://github.com/nordic-netsuite/SuiteBundle-Get-Netsuite-Record)|
