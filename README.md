@@ -1,7 +1,9 @@
 # SuiteBundles
-Public, unmanaged, open SuiteBundles that can be found by searching inside your NetSuite instance (Customize->SuiteBundle->Search & Install).
+Public, unmanaged, open SuiteBundles that can be found by searching inside your NetSuite instance (Customize->SuiteBundle->Search & Install).<br><br>
+No warranty, support or future functionality is provided or guaranteed for any of these open SuiteBundles. You install these open SuiteBundles at your own risk.<br><br>
+You are granted permission, free of charge, to deal in the open SuiteBundles without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the open SuiteBundles, and to permit persons to whom the open SuiteBundles is furnished to do so.<br><br>
+THE OPEN SUITEBUNDLES ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE OPEN SUITEBUNDLES OR THE USE OR OTHER DEALINGS IN THE OPEN SUITEBUNDLES.<br><br>
 
-No warriany, support or future fuctionality are guarnteed for any of these bundles. You install these customizations at your own risk.
 
 |Bundle Name|Bundle ID| Unlocked Version | Abstract | Repository / Documentation
 | ------------ | ------------ | ------------ | ------------ | ------------|
